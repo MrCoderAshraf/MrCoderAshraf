@@ -43,6 +43,5 @@
 <br>
 
 ![](https://img.shields.io/badge/Md.%20Ashraful%20Alam%20Rahi-MrCoderAshraf-blue?logo=github&logoColor=white)
-![Profile views](https://komarev.com/ghpvc/?username=mrcoderashraf&color=blue)
 
 If you &#128150; my wok, please &#11088; the repositories!
