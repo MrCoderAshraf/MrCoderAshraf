@@ -1,4 +1,4 @@
-<h1 align="center">Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="25px" alt="hi"> I'm JAHID</h1>
+<h1 align="center">Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="25px" alt="hi"> I'm ASHRAF</h1>
 
 * &#128205; From Chittagong, Bangladesh. ![bd flag](assets/flags/bd.svg)
 * &#127891; A undergraduate student.
@@ -37,27 +37,12 @@
 
 <br>
 
-<a href="mailto:jahid2811official@gmail.com" target="_blank"><img alt="Email" title="Email" src="assets/social/gmail.svg"/></a>
-<a href="https://www.facebook.com/mrdeveloperjis" target="_blank"><img alt="Facebook" title="Facebook" src="assets/social/facebook.svg"/></a>
-<a href="https://www.instagram.com/mrdeveloperjis" target="_blank"><img alt="Instagram" title="Instagram" src="assets/social/instagram.svg"/></a>
-<a href="https://www.twitter.com/mrdeveloperjis" target="_blank"><img alt="Twitter" title="Twitter" src="assets/social/twitter.svg"/></a>
-<a href="https://wa.me/+8801956185620" target="_blank"><img alt="WhatsApp" title="WhatsApp" src="assets/social/whatsapp.svg"/></a>
-<a href="https://www.t.me/mrdeveloperjis" target="_blank"><img alt="Telegram" title="Telegram" src="assets/social/telegram.svg"/></a>
-<a href="https://www.linkedin.com/in/mrdeveloperjis" target="_blank"><img alt="LinkedIn" title="LinkedIn" src="assets/social/linkedin.svg"/></a>
+<a href="mailto:raheefsan@gmail.com" target="_blank"><img alt="Email" title="Email" src="assets/social/gmail.svg"/></a>
+<a href="https://www.linkedin.com/in/ashraful-alam-rahi-b070091a5/" target="_blank"><img alt="LinkedIn" title="LinkedIn" src="assets/social/linkedin.svg"/></a>
 
 <br>
 
-![](https://img.shields.io/badge/Md.%20Jahidul%20Islam%20Sujan-MrDevelopeJIS-blue?logo=github&logoColor=white)
-![Profile views](https://komarev.com/ghpvc/?username=mrdeveloperjis&color=blue)
+![](https://img.shields.io/badge/Md.%20Ashraful%20Alam%20Rahi-MrCoderAshraf-blue?logo=github&logoColor=white)
+![Profile views](https://komarev.com/ghpvc/?username=mrcoderashraf&color=blue)
 
 If you &#128150; my wok, please &#11088; the repositories!
-
-<br>
-
-![mrdeveloperjis](assets/gif/mrdeveloperjis.gif)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mrdeveloperjis&count_private=true&show_icons=true&include_all_commits=true)
-
-![Github streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mrdeveloperjis)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrdeveloperjis&layout=compact)
